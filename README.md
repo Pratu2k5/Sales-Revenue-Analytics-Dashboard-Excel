@@ -49,7 +49,7 @@ The dashboard provides a clear view of revenue, profit, orders, quantity, produc
 - Date/Month Filter
 
 ## 📷 Dashboard Preview
-![Sales & Revenue Analytics Dashboard](Screenshots/Sales-Revenue-Dashboard.png)
+![Sales & Revenue Analytics Dashboard](Sales-Revenue-Dashboard.png)
 
 ## 💡 Learning Outcomes
 Through this project, I improved my skills in Excel data analysis,
